@@ -1,0 +1,44 @@
+[
+  {
+    "name": "CreatePost",
+    "path": "/CreatePost",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\social-media\\\\pages\\\\CreatePost.vue",
+    "chunkName": "pages/CreatePost",
+    "_name": "_3f0aaa80"
+  },
+  {
+    "name": "Post",
+    "path": "/Post",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\social-media\\\\pages\\\\Post.vue",
+    "chunkName": "pages/Post",
+    "_name": "_7c707264"
+  },
+  {
+    "name": "Profile",
+    "path": "/Profile",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\social-media\\\\pages\\\\Profile.vue",
+    "chunkName": "pages/Profile",
+    "_name": "_1e106915"
+  },
+  {
+    "name": "Registration",
+    "path": "/Registration",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\social-media\\\\pages\\\\Registration.vue",
+    "chunkName": "pages/Registration",
+    "_name": "_1e5421fd"
+  },
+  {
+    "name": "UserHome",
+    "path": "/UserHome",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\social-media\\\\pages\\\\UserHome.vue",
+    "chunkName": "pages/UserHome",
+    "_name": "_12e9760e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\social-media\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_15711e44"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "Login": {
+    "description": "Auto imported from components/Login.vue"
+  },
+  "MainHeader": {
+    "description": "Auto imported from components/MainHeader.vue"
+  },
+  "RegisterHeader": {
+    "description": "Auto imported from components/RegisterHeader.vue"
+  },
+  "SinglePost": {
+    "description": "Auto imported from components/SinglePost.vue"
+  },
+  "UserHeader": {
+    "description": "Auto imported from components/UserHeader.vue"
+  }
+}
